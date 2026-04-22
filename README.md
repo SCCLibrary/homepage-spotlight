@@ -7,7 +7,7 @@ Welcome! This guide explains how to update the three featured cards on the libra
 ## One-time setup (first visit only)
 
 1. Create a free GitHub account at [github.com/signup](https://github.com/signup) using your library email
-2. Send your GitHub username to [the repo owner] so you can be added as a collaborator
+2. Send your GitHub username to Lauren at Lbryant@shoreline.edu so you can be added as a collaborator
 3. Accept the email invitation you'll receive from GitHub
 
 That's it for setup — you only do this once.
