@@ -1,0 +1,23 @@
+[
+  {
+    "image": "academic-databases.jpg",
+    "alt": "Two students studying together at a round library table with a laptop",
+    "title": "Access Academic Databases",
+    "description": "The library has premium access to academic databases with scholarly and peer reviewed journals written by scholars and professionals.",
+    "link": "https://sccwa.libguides.com/databases"
+  },
+  {
+    "image": "study-rooms.jpg",
+    "alt": "A quiet study room with a large wooden table and bookshelves",
+    "title": "Reserve a Study Room",
+    "description": "Book a private or group study space online, available seven days a week during library hours.",
+    "link": "https://sccwa.libguides.com/study-rooms"
+  },
+  {
+    "image": "new-arrivals.jpg",
+    "alt": "A display shelf featuring newly added books with colorful covers",
+    "title": "New Arrivals This Month",
+    "description": "Discover the latest additions to our collection — fiction, nonfiction, and everything in between.",
+    "link": "https://www.instagram.com/scclibrary/"
+  }
+]
