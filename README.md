@@ -106,4 +106,4 @@ Give it about 60 seconds and refresh the page. If it still hasn't updated after 
 
 ---
 
-Questions? Contact [repo owner / library web coordinator].
+Questions? Contact lbryant@shoreline.edu.
