@@ -36,7 +36,7 @@ Updates appear on the library website within about one minute.
 5. Scroll down and click the green **Commit changes** button
 
 **Image tips:**
-- Recommended size: around 1200 × 800 pixels (landscape orientation)
+- Recommended size: around 1456 x 480 pixels (landscape orientation)
 - File format: `.jpg`, `.png`, or `.webp`
 - Keep file size under 500 KB if possible — large files slow down the page
 - Use descriptive filenames: `study-rooms-fall-2026.jpg`, not `IMG_8472.jpg`
