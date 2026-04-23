@@ -66,8 +66,8 @@ Updates appear on the library website within about one minute.
   "image": "new-study-nook.jpg",
   "alt": "A cozy reading nook with comfortable chairs and natural light",
   "title": "New Quiet Study Nook",
-  "description": "Our newly renovated quiet study area is now open on the second floor.",
-  "link": "https://sccwa.libguides.com/spaces"
+  "description": "Our newly renovated quiet study area is now open.",
+  "link": "https://library.shoreline.edu/spaces"
 }
 ```
 
